@@ -1,7 +1,7 @@
 # Immunological-Involvement-in-PMM2-CDG
 
 **Authors:** Pascoal C, Granjo P, Gallego D, Kodríková R, Nemčovič Marek, Braga M, Francisco R, Grosso AR, dos Reis Ferreira V, Videira PA*
-(Corresponding Title-)
+*(Corresponding Author)
 
 # Table of Contents
 
